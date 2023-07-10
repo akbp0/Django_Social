@@ -55,31 +55,31 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 ``` bash
-      git clone https://github.com/your-username/virtual-social-network.git
+git clone https://github.com/your-username/virtual-social-network.git
 ```
 
 2. Install the required dependencies:
 ``` python
-      pip install -r requirements.txt
+pip install -r requirements.txt
  ```
 
 3. Configure the database settings in settings.py.
 
 4. Apply database migrations:
  ```python
-      python manage.py migrate
+ python manage.py migrate
    ```
 
 6. Run the test suite to ensure the project is functioning correctly:
 ``` python
-      python manage.py test
+python manage.py test
 ```
    
    
 
 7. Start the development server:
 ``` python
-      python manage.py runserver
+python manage.py runserver
 ```
    
 

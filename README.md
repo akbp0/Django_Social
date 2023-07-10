@@ -66,7 +66,7 @@ To get started with this project, follow these steps:
 3. Configure the database settings in settings.py.
 
 4. Apply database migrations:
-5. ```python
+ ```python
       python manage.py migrate
    ```
 

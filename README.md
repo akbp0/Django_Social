@@ -54,14 +54,14 @@ The project's file structure follows Django conventions and includes the followi
 To get started with this project, follow these steps:
 
 1. Clone the repository:
-```bash
+``` bash
       git clone https://github.com/your-username/virtual-social-network.git
-   ```
+```
 
 2. Install the required dependencies:
-```python
+``` python
       pip install -r requirements.txt
-   ```
+ ```
 
 3. Configure the database settings in settings.py.
 
@@ -71,14 +71,14 @@ To get started with this project, follow these steps:
    ```
 
 6. Run the test suite to ensure the project is functioning correctly:
-   ```python
+``` python
       python manage.py test
-   ```
+```
    
    
 
 7. Start the development server:
-```python
+``` python
       python manage.py runserver
 ```
    
